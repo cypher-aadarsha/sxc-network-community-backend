@@ -49,6 +49,8 @@ See [API_DOCS.md](API_DOCS.md) for detailed API endpoints and usage.
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests.
+- [@anjalrajchal](https://github.com/Rajchal/) - Developer
+- [@cypher-aadarsha](https://github.com/cypher-aadarsha/) - Deployment/Operation
 
 ## License
 
